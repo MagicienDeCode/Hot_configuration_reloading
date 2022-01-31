@@ -1,0 +1,6 @@
+your:
+  external:
+    file: ${CONF_FILE_PATH}
+
+server:
+  port: 11111
